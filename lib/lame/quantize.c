@@ -1279,7 +1279,7 @@ VBR_prepare (
 }
  
  
-inline
+
 void bitpressure_strategy1(
     lame_internal_flags * gfc,
     III_psy_xmin l3_xmin[2][2],
